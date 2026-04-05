@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Foro Alter Ego</string>
+    <string name="message_exit">Presione una vez más para salir de Alter Ego</string>
+    <string name="navegation_to_back">Navegando hacia atrás…</string>
+    <string name="navegation_to_forward">Navegando hacia alante…</string>
+</resources>
