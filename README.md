@@ -41,16 +41,22 @@ That makes this project valuable to me not only as Android code, but as evidence
 
 ## Screenshots
 
+## Screenshots
+
 ### v1.1.1
-![Screenshot](docs/v1.1.1/Screenshot_20210402-135109_Foro_Alter_Ego.jpg)
-![Screenshot](docs/v1.1.1/Screenshot_20210402-135146_Foro_Alter_Ego.jpg)
+<p align="center">
+  <img src="docs/v1.1.1/Screenshot_20210402-135109_Foro_Alter_Ego.jpg" width="300"/>
+  <img src="docs/v1.1.1/Screenshot_20210402-135146_Foro_Alter_Ego.jpg" width="300"/>
+</p>
 
 ### v1.0
-![Screenshot](docs/v1.0/Screenshot_20210127-202023_AlterEgo.jpg)
-![Screenshot](docs/v1.0/Screenshot_20210127-202041_AlterEgo.jpg)
-![Screenshot](docs/v1.0/Screenshot_20210127-202050_AlterEgo.jpg)
-![Screenshot](docs/v1.0/Screenshot_20210127-202059_AlterEgo.jpg)
-![Screenshot](docs/v1.0/Screenshot_20210127-202111_AlterEgo.jpg)
+<p align="center">
+  <img src="docs/v1.0/Screenshot_20210127-202023_AlterEgo.jpg" width="250"/>
+  <img src="docs/v1.0/Screenshot_20210127-202041_AlterEgo.jpg" width="250"/>
+  <img src="docs/v1.0/Screenshot_20210127-202050_AlterEgo.jpg" width="250"/>
+  <img src="docs/v1.0/Screenshot_20210127-202059_AlterEgo.jpg" width="250"/>
+  <img src="docs/v1.0/Screenshot_20210127-202111_AlterEgo.jpg" width="250"/>
+</p>
 
 ## Technical Details
 
