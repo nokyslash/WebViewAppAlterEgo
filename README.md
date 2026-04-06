@@ -16,6 +16,8 @@ Given the technical and budget constraints, a WebView-based Android app was the 
 
 Although the original forum is no longer available, this repository is preserved as part of my portfolio because it represents a real product built for real users and improved through actual usage.
 
+The application was released in multiple iterations (v1.0 and v1.1.1), incorporating UI improvements, navigation refinements, and general stability fixes based on real usage.
+
 ## Real-World Context
 
 This was not just a practice project.
@@ -36,6 +38,19 @@ That makes this project valuable to me not only as Android code, but as evidence
 - Landscape orientation support
 - Deep linking support for forum URLs
 - Double-back press to exit behavior for better navigation flow
+
+## Screenshots
+
+### v1.1.1
+![Screenshot](docs/v1.1.1/Screenshot_20210402-135109_Foro_Alter_Ego.jpg)
+![Screenshot](docs/v1.1.1/Screenshot_20210402-135146_Foro_Alter_Ego.jpg)
+
+### v1.0
+![Screenshot](docs/v1.0/Screenshot_20210127-202023_AlterEgo.jpg)
+![Screenshot](docs/v1.0/Screenshot_20210127-202041_AlterEgo.jpg)
+![Screenshot](docs/v1.0/Screenshot_20210127-202050_AlterEgo.jpg)
+![Screenshot](docs/v1.0/Screenshot_20210127-202059_AlterEgo.jpg)
+![Screenshot](docs/v1.0/Screenshot_20210127-202111_AlterEgo.jpg)
 
 ## Technical Details
 
